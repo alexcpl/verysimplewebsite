@@ -105,3 +105,4 @@ typings/
 ### Alex ignore list ###
 downloads/
 vendors/
+.ftp-settings.json
