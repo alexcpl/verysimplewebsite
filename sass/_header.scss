@@ -1,0 +1,12 @@
+.hero{
+  background-image: url('/img/c27-stock.jpg');
+  background-size: cover;
+  background-attachment: fixed;
+  min-height: 690px;
+  display: flex;
+  align-items: center;
+
+  .message .display-3,{
+    text-shadow: -1px 0 $gray, 0 1px $gray, 1px 0 $gray, 0 -1px $gray;
+  }
+}
