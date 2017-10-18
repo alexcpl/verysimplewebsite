@@ -106,3 +106,7 @@ typings/
 downloads/
 vendors/
 .ftp-settings.json
+.ftpconfig
+.ftpignore
+id_rsa
+.git
