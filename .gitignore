@@ -110,4 +110,4 @@ vendors/
 .ftpignore
 id_rsa
 .git
-.sass-cache/
+sass/.sass-cache/
