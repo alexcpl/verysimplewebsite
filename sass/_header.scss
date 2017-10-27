@@ -2,11 +2,15 @@
   background-image: url('/img/c27-stock.jpg');
   background-size: cover;
   background-attachment: fixed;
+  background-color: #afc1c7;
+  background-blend-mode: multiply;
   min-height: 690px;
   display: flex;
   align-items: center;
 
   .message .display-3,{
     text-shadow: -1px 0 $gray, 0 1px $gray, 1px 0 $gray, 0 -1px $gray;
+    color: #FFF;
+    text-align: right;
   }
 }
